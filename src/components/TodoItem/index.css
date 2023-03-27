@@ -1,0 +1,13 @@
+li {
+  color: black;
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  background-color: aliceblue;
+  color: #ff0b37;
+  border-radius: 5px;
+  border-color: #ff0b37;
+  height: 50px;
+  width: 200px;
+}
